@@ -1,35 +1,46 @@
-# AstroZen - Personal Portfolio Website
+# Obinna Ezeka – Developer Portfolio
 
-AstroZen is a minimalist, accessible and responsive portfolio template for your personal portfolio website. It is built with Astro and TailwindCSS.
+A modern, responsive developer portfolio showcasing my projects, experience, and technical skills. Built to highlight full-stack applications and demonstrate my ability to design, build, and deploy real-world projects.
 
-![zen-og](https://github.com/user-attachments/assets/7a72aaae-6652-4cd0-becc-8e6a3c224993)
+## 🔗 Live Demo
+https://obinna-portfolio.vercel.app
 
-> [!NOTE]
-> The information contained in this template, including names, images, and content, is entirely fictitious and is intended solely to give the design a realistic appearance. Any coincidence with real-life people, events, or situations is purely coincidental. It is recommended that you replace this information with your own information.
+## 📸 Preview
+![previewSc Computer.png](./public/portfolio-preview.png)
+![previewSC Phone.PNG](./public/portfolio-preview.png)
 
-## 🔥 Features
+## 🛠️ Tech Stack
+- Astro
+- Tailwind CSS
+- JavaScript
+- Vercel (Deployment)
 
-- [x] Minimalist design. clean and simple
-- [x] Mobile-first responsive layout
-- [x] SEO-friendly and accessible
-- [x] Easy to customize with a single configuration file
+## 🚀 Projects Featured
 
-## ✅ Lighthouse Score
+### 🎵 Song of the Day
+A music discovery app that lets users search songs using the iTunes API and explore daily song picks through a clean, interactive interface.
 
-![performance](https://github.com/user-attachments/assets/4f95e2ca-03f9-4996-9e34-dcd179194c58)
+- Live: https://song-of-the-day-qzok.onrender.com/
+- Code: https://github.com/Obi815/song-of-the-day-
 
-## 🚀 Getting Started
+### 🎬 Movie Junkie
+A movie search application powered by the TMDB API that allows users to quickly find movies, posters, and overviews.
 
-Clone this repository to your local machine using Git.
+- Live: https://moviejunkies.netlify.app/
+- Code: https://github.com/Obi815/movieJunkie
 
-```scheme
-git clone https://github.com/immois/astro-zen.git
-cd astro-zen
-```
+### 🎯 Fantasy Draft Lotto
+A fantasy sports lottery simulator that generates draft odds based on league settings and user input.
 
-| Command        | Action                                       |
-| :------------- | :------------------------------------------- |
-| `pnpm install` | Installs dependencies                        |
-| `pnpm dev`     | Starts local dev server at `localhost:4321`  |
-| `pnpm build`   | Build your production site to `./dist/`      |
-| `pnpm preview` | Preview your build locally, before deploying |
+- Live: https://fantasydraftlotto.netlify.app/
+- Code: https://github.com/Obi815/mega-millions
+
+## 📚 What I Learned
+- Structured and customized a modern portfolio using Astro
+- Built reusable components and managed content through a centralized configuration file
+- Deployed and maintained a production-ready site using Vercel
+- Improved how I present projects clearly for recruiters and hiring managers
+
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/obinnaezeka/
+- GitHub: https://github.com/Obi815
