@@ -6,8 +6,8 @@ A modern, responsive developer portfolio showcasing my projects, experience, and
 https://obinna-portfolio.vercel.app
 
 ## 📸 Preview
-![previewSc Computer.png](./public/portfolio-preview.png)
-![previewSC Phone.PNG](./public/portfolio-preview.png)
+![Computer Preview](./public/previewSc%20Computer.png)
+![Phone Preview](./public/previewSC%20Phone.PNG)
 
 ## 🛠️ Tech Stack
 - Astro
