@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/Obi815" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://your-project-name.vercel.app",
 };
 
 export const SITE_CONTENT: SiteContent = {
