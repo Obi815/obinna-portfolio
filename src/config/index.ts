@@ -14,7 +14,7 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "LinkedIn", href: "https://www.linkedin.com/in/obinnaezeka/" },
-    { text: "Github", href: "https://github.com/Obi815" },
+    { text: "GitHub", href: "https://github.com/Obi815" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://obinna-portfolio.vercel.app",
@@ -24,8 +24,8 @@ export const SITE_CONTENT: SiteContent = {
     name: "Obinna Ezeka",
     specialty: "Software Engineer",
     summary:
-      "Software Engineer focused on building full-stack web applications with JavaScript, React, Node.js, Express, MongoDB, and Python.",
-    email: "PASTE_YOUR_EMAIL_HERE",
+      "I build full-stack web applications with JavaScript, React, Node.js, Express, MongoDB, and Python, with a focus on clean UI, APIs, and practical user experiences.",
+        email: "ObinnaEzeka815@gmail.com",
   },
   experience: [
     {
@@ -55,16 +55,16 @@ export const SITE_CONTENT: SiteContent = {
       name: "Song of the Day",
       summary:
         "A music discovery app that lets users search songs with the iTunes API and explore daily song picks through a clean interactive interface.",
-      linkPreview: "PASTE_YOUR_LIVE_DEMO_LINK_HERE",
-      linkSource: "PASTE_YOUR_GITHUB_REPO_LINK_HERE",
+      linkPreview: "https://song-of-the-day-qzok.onrender.com/",
+      linkSource: "https://github.com/Obi815/song-of-the-day-",
       image: "/SOTD.png",
     },
     {
       name: "Movie Junkie",
       summary:
         "A movie search app powered by the TMDB API that helps users quickly find films, posters, and overviews in a responsive interface.",
-      linkPreview: "PASTE_YOUR_LIVE_DEMO_LINK_HERE",
-      linkSource: "PASTE_YOUR_GITHUB_REPO_LINK_HERE",
+      linkPreview: "https://moviejunkies.netlify.app/",
+      linkSource: "https://github.com/Obi815/movieJunkie",
       image: "/movieJunkie.png",
     },
     {
