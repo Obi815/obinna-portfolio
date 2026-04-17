@@ -15,6 +15,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     { text: "LinkedIn", href: "https://www.linkedin.com/in/obinnaezeka/" },
     { text: "GitHub", href: "https://github.com/Obi815" },
+    { text: "BlueSky", href: "https://bsky.app/profile/obiezeka.bsky.social" }
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://obinna-portfolio.vercel.app",
