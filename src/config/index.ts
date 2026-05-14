@@ -61,6 +61,14 @@ export const SITE_CONTENT: SiteContent = {
       image: "/SOTD.png",
     },
     {
+      name: "Story Books (coming soon!)",
+      summary:
+        "StoryBooks is a full-stack storytelling application where users can create, manage, and share public or private stories. Built with Node.js, Express, MongoDB, Passport.js, and Handlebars, the project focuses on authentication, CRUD functionality, and MVC architecture while giving users a clean dashboard experience for managing their content.",
+      linkPreview: "https://obinna-portfolio.vercel.app/",
+      linkSource: "https://obinna-portfolio.vercel.app/",
+      image: "/StoryBooks.png",
+    },
+    {
       name: "Movie Junkie",
       summary:
         "A movie search app powered by the TMDB API that helps users quickly find films, posters, and overviews in a responsive interface.",
