@@ -63,10 +63,10 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Story Books *soon*",
       summary:
-        "StoryBooks is a full-stack storytelling app built with Node.js, Express, MongoDB, and Passport.js where users can create, manage, and share public or private stories through a personalized dashboard",
+        "StoryBooks is a full-stack storytelling app that lets users create, manage, and share public or private stories through a clean dashboard experience with Google authentication.",
       linkPreview: "https://obinna-portfolio.vercel.app/",
       linkSource: "https://obinna-portfolio.vercel.app/",
-      image: "/sbProjectimg.png",
+      image: "/StoryBooks.png",
     },
     {
       name: "Movie Junkie",
