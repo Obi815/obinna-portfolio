@@ -61,9 +61,9 @@ export const SITE_CONTENT: SiteContent = {
       image: "/SOTD.png",
     },
     {
-      name: "Story Books (coming soon!)",
+      name: "Story Books *soon*",
       summary:
-        "StoryBooks is a full-stack storytelling app where users can create, manage, and share public or private stories through a personalized dashboard. Built with Node.js, Express, MongoDB, and Passport.js, the project focuses on authentication, CRUD functionality, and MVC architecture.",
+        "StoryBooks is a full-stack storytelling app built with Node.js, Express, MongoDB, and Passport.js where users can create, manage, and share public or private stories through a personalized dashboard",
       linkPreview: "https://obinna-portfolio.vercel.app/",
       linkSource: "https://obinna-portfolio.vercel.app/",
       image: "/sbProjectimg.png",
